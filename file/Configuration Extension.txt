@@ -1,0 +1,6 @@
+.docx - /home/lexa/Документы/Файлы/
+.pdf - /home/lexa/Документы/Файлы/
+.txt - /home/lexa/Документы/Файлы/
+.mp3 - /home/lexa/Музыка/6-Не сортированнное/
+.mp4 - /home/lexa/Видео/
+.gif - /home/lexa/Видео/Gif/
